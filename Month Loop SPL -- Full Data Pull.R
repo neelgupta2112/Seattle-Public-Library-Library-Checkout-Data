@@ -75,7 +75,7 @@ for (year in start_year:end_year) {
 
 # Combine all month/year results into one data frame
 checkouts <- purrr::list_rbind(all_results)
-write.csv(checkouts, file = "//Desktop//bymonthfeb2025.csv", row.names = FALSE)
+write.csv(checkouts, file = "Path/to/desired/location", row.names = FALSE)
 
 # Print some data for checking
 print(head(checkouts))
