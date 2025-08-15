@@ -1,5 +1,5 @@
 # Seattle-Public-Library-Library-Checkout-Data
-This is the repository with code for our paper [DOI: 10.5334/johd.332]("Seattle Public Library’s Open Checkout Data: What Can It Tell Us About Readers and Book Popularity More Broadly?").'
+This is the repository with code for our paper ["Seattle Public Library’s Open Checkout Data: What Can It Tell Us About Readers and Book Popularity More Broadly?"](DOI: 10.5334/johd.332).'
 
 ## Introduction
 
